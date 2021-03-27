@@ -1,3 +1,4 @@
+//This program solves the N-Queen Puzzle
 #include <bits/stdc++.h>
 
 using namespace std;
