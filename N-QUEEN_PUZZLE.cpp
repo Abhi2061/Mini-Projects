@@ -1,6 +1,7 @@
 //This program solves the N-Queen Puzzle
-#include <bits/stdc++.h>
 
+
+#include <bits/stdc++.h>
 using namespace std;
 
 // TO MARK THE CELLS THAT CANNOT BE  FILLED
